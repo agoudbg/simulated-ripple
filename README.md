@@ -10,7 +10,7 @@
 ### 安装方法
 -  方式一
 ```bash
-npm install simulated-ripple --save
+npm install @agoudbg/simulated-ripple --save
 ```
 
 - 方式二

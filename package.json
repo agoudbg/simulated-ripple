@@ -1,6 +1,6 @@
 {
-  "name": "simulated-ripple",
-  "version": "0.0.4",
+  "name": "@agou/simulated-ripple",
+  "version": "0.0.5",
   "description": "simulated ripple",
   "main": "dist/simulated-ripple.js",
   "scripts": {
@@ -9,19 +9,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/qgh810/simulated-ripple.git"
+    "url": "git+https://github.com/agoudbg/simulated-ripple.git"
   },
   "keywords": [
     "ripple",
     "ripples",
     "simulated-ripple"
   ],
-  "author": "qiuguohui",
+  "private": false,
+  "author": "agoudbg",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/qgh810/simulated-ripple/issues"
+    "url": "https://github.com/agoudbg/simulated-ripple/issues"
   },
-  "homepage": "https://github.com/qgh810/simulated-ripple#readme",
+  "homepage": "https://github.com/agoudbg/simulated-ripple#readme",
   "devDependencies": {
     "babel-core": "^6.24.0",
     "babel-loader": "^6.4.0",
